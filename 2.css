@@ -52,7 +52,7 @@ body {
 .catary {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 20px;
+  gap: 10px;
 }
 .catary img {
   width: 200px;
