@@ -76,6 +76,7 @@ body {
   }
   .product_thumbmain {
     order: 2;
+    display: flex;
   }
   .catary {
     grid-template-columns: repeat(2, 1fr);
