@@ -42,7 +42,7 @@ body {
   scrollbar-width: thin;
 }
 .product_thumbmain img {
-  width: 100%px;
+  width: 100%;
   height: 100px;
 }
 .product_main img {
